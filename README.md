@@ -49,8 +49,6 @@ Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan lapora
 
 9. Anda akan diarahkan ke halaman login. Masukkan username "admin" dan password "admin" untuk masuk ke dalam aplikasi (ingatlah untuk mengubah kata sandi ini ke yang lebih aman dalam pengaturan aplikasi nanti).
 
-Sekarang Anda dapat menggunakan aplikasi "kas_perusahaan" secara lokal di XAMPP. Pastikan untuk melakukan langkah-langkah ini hanya di lingkungan pengembangan lokal Anda, dan pastikan untuk mengamankan aplikasi sebelum mendeploy ke lingkungan produksi.
-
-## Lisensi
+Sekarang Anda dapat menggunakan aplikasi "kas_perusahaan" secara lokal di XAMPP. Pastikan untuk melakukan langkah-langkah ini hanya di lingkungan pengembangan lokal Anda.
 
 Sekian, Penjelasan dari aplikasi kami.
