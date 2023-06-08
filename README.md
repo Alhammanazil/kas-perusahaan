@@ -2,6 +2,13 @@
 
 Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan laporan keuangan di perusahaan. Dengan menggunakan aplikasi ini, perusahaan dapat secara efisien mencatat dan melacak semua transaksi keuangan yang terjadi.
 
+## Tampilan Aplikasi
+
+![Gambar 1](dist/img/login.png)
+![Gambar 2](dist/img/pemasukan.png)
+![Gambar 3](dist/img/pengeluaran.png)
+![Gambar 4](dist/img/rekap.png)
+
 ## Anggota Kelompok
 
 | No | Nama               | NIM      |
