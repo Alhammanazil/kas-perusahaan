@@ -1,13 +1,18 @@
 # Kas Perusahaan
 
-Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan laporan keuangan di perusahaan. Dengan menggunakan aplikasi ini, perusahaan dapat secara efisien mencatat dan melacak semua transaksi keuangan yang terjadi.
+Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan laporan keuangan di perusahaan. Dengan menggunakan aplikasi ini, perusahaan dapat secara efisien mencatat dan melacak semua transaksi keuangan yang terjadi.<br>
 
 ## Tampilan Aplikasi
 
-![Gambar 1](dist/img/login.png)
-![Gambar 2](dist/img/pemasukan.png)
-![Gambar 3](dist/img/pengeluaran.png)
-![Gambar 4](dist/img/rekap.png)
+<div>
+  <img src="dist/img/login.png" alt="Gambar 1" width="300">
+  <img src="dist/img/pemasukan.png" alt="Gambar 2" width="300">
+</div>
+<div>
+  <img src="dist/img/pengeluaran.png" alt="Gambar 3" width="300">
+  <img src="dist/img/rekap.png" alt="Gambar 4" width="300">
+</div><br>
+
 
 ## Anggota Kelompok
 
@@ -18,6 +23,7 @@ Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan lapora
 | 3  | Alham Manazil      | 202051170       |
 | 4  | Muhammad Nur Is’ad | 202051179       |
 | 5  | Aditya Bagus S.    | 202051202       |
+<br>
 
 ## Fitur
 
@@ -28,6 +34,7 @@ Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan lapora
 - Rekap Keuangan: Aplikasi ini dapat menyajikan rekapitulasi keuangan perusahaan berdasarkan pemasukan dan pengeluaran yang telah dicatat. Pengguna dapat melihat ringkasan keuangan yang mencakup total pemasukan, total pengeluaran, dan saldo akhir.
 
 - Laporan Keuangan: Aplikasi ini dapat menghasilkan laporan keuangan yang lengkap, seperti laporan laba rugi, neraca, dan arus kas. Laporan-laporan ini memberikan gambaran yang jelas tentang kesehatan keuangan perusahaan.
+<br>
 
 ## Cara Menggunakan
 
@@ -51,4 +58,4 @@ Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan lapora
 
 Sekarang Anda dapat menggunakan aplikasi "kas_perusahaan" secara lokal di XAMPP. Pastikan untuk melakukan langkah-langkah ini hanya di lingkungan pengembangan lokal Anda.
 
-Sekian, Penjelasan dari aplikasi kami.
+Sekian penjelasan dari aplikasi kami.
