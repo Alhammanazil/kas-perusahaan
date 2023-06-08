@@ -33,7 +33,7 @@ Aplikasi ini bertujuan untuk mengelola pemasukan, pengeluaran, rekap, dan lapora
 
 - Rekap Keuangan: Aplikasi ini dapat menyajikan rekapitulasi keuangan perusahaan berdasarkan pemasukan dan pengeluaran yang telah dicatat. Pengguna dapat melihat ringkasan keuangan yang mencakup total pemasukan, total pengeluaran, dan saldo akhir.
 
-- Laporan Keuangan: Aplikasi ini dapat menghasilkan laporan keuangan yang lengkap, seperti laporan laba rugi, neraca, dan arus kas. Laporan-laporan ini memberikan gambaran yang jelas tentang kesehatan keuangan perusahaan.
+- Laporan Keuangan: Aplikasi ini dapat menghasilkan laporan keuangan yang lengkap seperti pada rekap keuangan dalam bentuk format pdf.
 <br>
 
 ## Cara Menggunakan
